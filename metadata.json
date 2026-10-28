@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de CDB Pós-Fixado & Python Script",
+  "description": "Calculadora financeira de rendimento em CDB pós-fixado com tabela regressiva de IR, simulação no terminal interativo e gerador de script Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
